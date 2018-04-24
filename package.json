@@ -1,0 +1,32 @@
+{
+  "name": "node-starter-v4",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/server",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/excham/node-starter-v4"
+  },
+  "author": "excham <isaac@excham.net>",
+  "license": "ISC",
+  "dependencies": {
+    "bulma": "^0.7.1",
+    "css-loader": "^0.28.11",
+    "express": "^4.16.3",
+    "node-sass": "^4.8.3",
+    "pug": "^2.0.3",
+    "react": "^16.3.2",
+    "react-dom": "^16.3.2",
+    "react-router": "^4.2.0",
+    "react-router-dom": "^4.2.2",
+    "sass-loader": "^7.0.1",
+    "style-loader": "^0.21.0",
+    "webpack": "^4.6.0"
+  },
+  "devDependencies": {
+    "webpack-cli": "^2.0.15"
+  }
+}
